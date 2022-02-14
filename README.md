@@ -19,6 +19,7 @@ Define the training parameters by setting the `configs` dictionary in `config_fi
 - `/tmp_models`: where the results of the experiments are stored.
 
 ## References:
+We follow the public implementations of the following two works:
 ```
 @article{Liu2018efficient,
   title={Efficient Low-rank Multimodal Fusion with Modality-Specific Factors},
